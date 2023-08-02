@@ -1,10 +1,10 @@
 import './App.css'
-import EnterScene from './world/EnterScene'
+import Basic from './world/Basic';
 function App() {
 
 	return (
 		<>
-			<EnterScene></EnterScene>
+			<Basic></Basic>
 		</>
 	)
 }
